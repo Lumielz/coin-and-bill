@@ -1,0 +1,45 @@
+h1 {
+  text-align: center;
+  color: deepskyblue;
+  text-decoration: underline;
+}
+
+p {
+  text-align: center;
+}
+
+button {
+  text-align: center;
+  padding: 0.33rem 1.5rem;
+  background-color: goldenrod;
+  border: none;
+  border-radius: 99px;
+  min-width: 130px;
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: antiquewhite;
+
+}
+
+#saving-money {
+  text-align: center;
+  padding: 1.5rem 0;
+  font-size: 4.5rem;
+  font-family: "Roboto";
+  color: deeppink;
+}
+
+#wallet {
+  padding: 4rem 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem ;
+}
+
+.coincss {
+  width: 200px;
+}
+
+.billcss {
+  width: 400px;
+}
